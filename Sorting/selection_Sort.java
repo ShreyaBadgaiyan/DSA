@@ -1,4 +1,4 @@
-package Recursion.Sorting;
+package Sorting;
 import java.util.Scanner;
 
 public class selection_Sort {
