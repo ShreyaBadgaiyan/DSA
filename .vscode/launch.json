@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "countLoop",
+            "request": "launch",
+            "mainClass": "Recursion.countLoop",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "infiniteLoop",
+            "request": "launch",
+            "mainClass": "Recursion.infiniteLoop",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "problem1",
+            "request": "launch",
+            "mainClass": "Recursion.problem1",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "selection_Sort",
+            "request": "launch",
+            "mainClass": "Sorting.selection_Sort",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "patterns.pattern1",
+            "projectName": "DSA_4f846d0e"
+        }
+    ]
+}
