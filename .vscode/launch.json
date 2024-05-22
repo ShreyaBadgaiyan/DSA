@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern16",
+            "request": "launch",
+            "mainClass": "patterns.pattern16",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
             "name": "pattern15",
             "request": "launch",
             "mainClass": "patterns.pattern15",
