@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "baseCondn",
+            "request": "launch",
+            "mainClass": "Recursion.baseCondn",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "infinite",
+            "request": "launch",
+            "mainClass": "Recursion.infinite",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
             "name": "pattern18",
             "request": "launch",
             "mainClass": "patterns.pattern18",
