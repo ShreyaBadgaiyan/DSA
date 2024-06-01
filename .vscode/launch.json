@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumParameterised",
+            "request": "launch",
+            "mainClass": "Recursion.sumParameterised",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
             "name": "rec5",
             "request": "launch",
             "mainClass": "Recursion.rec5",
