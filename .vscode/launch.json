@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "factorialFunctional",
+            "request": "launch",
+            "mainClass": "Recursion.factorialFunctional",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
             "name": "sumFunctional",
             "request": "launch",
             "mainClass": "Recursion.sumFunctional",
