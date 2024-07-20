@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "classmanual",
+            "request": "launch",
+            "mainClass": "patterns.classmanual",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "Sorting_.insertion_sort",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "bubble_sort",
+            "request": "launch",
+            "mainClass": "Sorting_.bubble_sort",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "Sorting_.selection_sort",
+            "projectName": "DSA_4f846d0e"
+        },
+        {
+            "type": "java",
             "name": "reverseFunctional",
             "request": "launch",
             "mainClass": "Recursion.reverseFunctional",
